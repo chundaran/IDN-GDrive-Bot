@@ -23,7 +23,7 @@ apt install -y git python3 ffmpeg
 ```
 - Clone this git repository.
 ```sh 
-git clone https://github.com/IDN-C-X/IDN-GDrive-Bot
+git clone https://github.com/donui-bit/IDN-GDrive-Bot
 ```
 - Change Directory
 ```sh 
